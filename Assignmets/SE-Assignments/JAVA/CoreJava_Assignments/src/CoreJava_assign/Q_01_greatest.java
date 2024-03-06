@@ -5,7 +5,7 @@ package CoreJava_assign;
 
 import java.util.Scanner;
 
-public class Q_01 {
+public class Q_01_greatest {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);//input reader
