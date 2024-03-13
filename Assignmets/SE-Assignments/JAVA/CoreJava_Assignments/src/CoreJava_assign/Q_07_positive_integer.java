@@ -26,7 +26,7 @@ public class Q_07_positive_integer {
 				System.out.println("Number of digits in the number: "+count);
 			}
 			else {
-				System.out.println(num+"Enter number less than ten billion");
+				System.out.println(num+" Enter number less than ten billion");
 			}
 		}
 		else {

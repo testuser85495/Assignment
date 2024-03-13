@@ -14,6 +14,7 @@ public class Q_02_alphabet {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter an alphabet: ");
+//        read user input
         String input = sc.next().toUpperCase();
 
 //        condition latter is more than one
